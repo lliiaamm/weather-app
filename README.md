@@ -4,7 +4,7 @@ This project was created by:
 Liam, Hila, Shahar, Maxim
 
 
-Link to AWS: [https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/GetWeather?tab=configure](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/GetWeather?tab=configure)
+Link to AWS: [http://ofek-25-6.s3-website.eu-north-1.amazonaws.com/](http://ofek-25-6.s3-website.eu-north-1.amazonaws.com/)
 
 
 
